@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/StarkEliezer/sextafeira/issues"
   },
-  "homepage": "https://github.com/StarkEliezer/sextafeira#readme"
+  "homepage": "https://github.com/StarkEliezer/sextafeira#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
